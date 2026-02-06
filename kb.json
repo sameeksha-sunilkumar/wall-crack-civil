@@ -1,0 +1,16 @@
+{
+  "vertical": {
+    "cause": "a) Temperature variations causing expansion/shrinkage.\nb) Structural movement (settlement or uplift).\nc) Restraint from adjacent structural elements.\nd) Improper construction joints.\ne) Plastic shrinkage in early stages.",
+    "solution": "a) Seal cracks with epoxy or polyurethane.\nb) Add expansion joints if thermal movement is the cause.\nc) Strengthen foundation if caused by settlement.\nd) Improve curing to prevent early shrinkage.\ne) Provide proper reinforcement detailing."
+  },
+
+  "shrinkage": {
+    "cause": "a) Rapid loss of moisture (drying shrinkage).\nb) Poor curing.\nc) High water-cement ratio.\nd) Temperature changes during curing.\ne) Large slab panels without adequate joints.",
+    "solution": "a) Proper curing (wet curing, curing compounds).\nb) Use low water-cement ratio mixes.\nc) Add control joints to relieve shrinkage.\nd) Use shrinkage-reducing admixtures.\ne) Ensure gradual drying."
+  },
+
+  "settlement": {
+    "cause": "a) Uneven settlement of soil beneath foundations.\nb) Poor soil compaction or weak soil strata.\nc) Excessive moisture changes in soil (expansion/shrinkage).\nd) Inadequate foundation design.",
+    "solution": "a) Improve ground conditions (soil stabilization, compaction).\nb) Underpinning or strengthening foundation.\nc) Ensure proper drainage around structure.\nd) Grouting or mud-jacking for slab settlement."
+  }
+}
